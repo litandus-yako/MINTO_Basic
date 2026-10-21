@@ -1,3 +1,5 @@
+🌐 [English README is here](./README_EN.md)
+
 # MINTO Basic (ミント ベーシック)
 A lightweight visual catalog & viewer for hyperspectral data
 
